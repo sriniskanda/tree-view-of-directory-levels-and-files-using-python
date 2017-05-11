@@ -1,4 +1,4 @@
-# tree-view-of-directory-levels-and-files-using-python
+# tree view of directory and files using python
 Following python code creates tree structure view for directories and also shows file present in each directory.
 
 This code returns tree view of all files, folders and sub folders in nice tree view
